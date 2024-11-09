@@ -20,7 +20,7 @@
 
 ## Для ознакомления
 
-При желании, для просмотра кода программы в интерфейсе GitHub, вы можете перейти [сюда](https://github.com/vadymvyleg/TicTacToe/tree/prog) и ознакомиться! 
+При желании, для просмотра кода программы в интерфейсе GitHub, вы можете перейти [сюда](https://github.com/vadimvyleg/TicTacToe/tree/prog?tab=readme-ov-file) и ознакомиться! 
 
 ## Установка
 
